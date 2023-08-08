@@ -4,8 +4,7 @@
 
 These are some learning objective
 <style>
-    copy {font-size:4
-     pt ; color: red}
+    copy {font-size: 50% ; color: red}
 </style>
 
 ```java 
@@ -18,4 +17,4 @@ This is some text
 
 <copy>this is comp</copy>
 
-This si more text
+<sub>This si more text<sub>
