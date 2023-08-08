@@ -3,9 +3,6 @@
 ## Learing Objectives
 
 These are some learning objective
-<style>
-    copy {font-size: 50% ; color: red}
-</style>
 
 ```java 
 class Test {
@@ -15,6 +12,6 @@ class Test {
 
 This is some text
 
-<copy>this is comp</copy>
+<span style={color:red}>this is comp</span>
 
 <sub>This si more text<sub>
